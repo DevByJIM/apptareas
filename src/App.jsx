@@ -12,7 +12,7 @@ function App() {
 
       <TaskListComponent></TaskListComponent>
 
-      <ContactComponent contact = {contacto} ></ContactComponent>
+      
   
     </>
   );
