@@ -1,6 +1,8 @@
 import './App.css';
 import TaskListComponent from './components/container/task_list';
 import ContactComponent from './components/pure/contact';
+import LoginForm from './components/pure/forms/LoginForm';
+import RegisterForm from './components/pure/forms/RegisterForm';
 import { Contact } from './models/contact.class';
 
 
@@ -12,6 +14,7 @@ function App() {
 
       <TaskListComponent></TaskListComponent>
 
+      <RegisterForm/>
       
   
     </>

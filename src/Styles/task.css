@@ -1,0 +1,32 @@
+
+
+
+.task-completed{
+    color:#888;
+    text-decoration: line-through;
+}
+.task-pending{
+    color: blue;
+    font-weight: 600;
+}
+
+
+.error{
+  color: red;
+  text-align: start;
+}
+
+
+.bi-toggle-on{
+    color: green;
+    font-weight: bold;
+    font-Size: 30px;
+    cursor: pointer;
+  }
+  
+  .bi-toggle-off{
+    color: grey;
+    font-weight: bold;
+    font-Size: 30px;
+    cursor: pointer;
+  }

@@ -3,3 +3,9 @@ export const LEVELS = {
     URGENT: 'urgent',
     BLOCKING: 'blocking'
 }
+
+export const ROLES = {
+    USER: 'user',
+    ADMIN: 'admin',
+
+}

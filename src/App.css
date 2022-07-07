@@ -18,17 +18,5 @@ body{
   background-color: #AAA;
 }
 
-.bi-toggle-on{
-  color: green;
-  font-weight: bold;
-  font-Size: 30px;
-  cursor: pointer;
-}
 
-.bi-toggle-off{
-  color: grey;
-  font-weight: bold;
-  font-Size: 30px;
-  cursor: pointer;
-}
 
